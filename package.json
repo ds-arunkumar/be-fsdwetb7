@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Node JS with JavaScript, Express JS, Mongo DB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds-arunkumar/be-fsdwetb7.git"
+  },
+  "author": "Arunkumar DS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds-arunkumar/be-fsdwetb7/issues"
+  },
+  "homepage": "https://github.com/ds-arunkumar/be-fsdwetb7#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
